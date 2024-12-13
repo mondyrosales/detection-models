@@ -1,0 +1,1 @@
+Both models are in 320x320 format with FP16 Quantization
